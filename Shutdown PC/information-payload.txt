@@ -1,0 +1,1 @@
+When this payload is executed, it runs certain commands on the computer and shuts down the computer.
