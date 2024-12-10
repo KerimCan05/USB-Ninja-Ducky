@@ -1,4 +1,4 @@
-![Ninja Ducky](/ninja-ducky.png)
+![Ninja Ducky](/image/ninja-ducky256.png)
 
 # USB Ninja Ducky
 USB Ninja Ducky is a project for those who are interested and curious about USB Rubber Ducky to develop their own USB Ninja Ducky at home.
