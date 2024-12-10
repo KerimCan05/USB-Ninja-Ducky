@@ -1,0 +1,1 @@
+When this payload is run, it collects certain information of the WiFi to which the computer is connected, such as SSID and Password.
