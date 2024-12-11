@@ -1,0 +1,1 @@
+This payload opens the desired site through the default browser. The user can edit the code as he wishes.
