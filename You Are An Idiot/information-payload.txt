@@ -1,0 +1,1 @@
+This payload is only for joke purposes, it does not do anything serious. When it is run, it opens a certain video from YouTube and displays it in full screen.
